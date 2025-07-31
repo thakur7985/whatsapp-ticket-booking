@@ -13,7 +13,7 @@ WhatsApp Chatbot with natural flow
 ✅ Designed for production use with extensibility
 
 
-🧩 Tech Stack
+# Tech Stack
 Area	Tech
 Backend	FastAPI, Python
 Messaging	Twilio WhatsApp API
@@ -24,7 +24,7 @@ Payment	Razorpay
 PDF	reportlab or fpdf
 Frontend Form	HTML, JS, CSS
 
-🧠 Conversation Flow (User Journey)
+# Conversation Flow (User Journey)
 User sends “hi” on WhatsApp
 
 Bot replies with menu: Book Bus / Flight
