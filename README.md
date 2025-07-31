@@ -1,4 +1,4 @@
-﻿# 📲 WhatsApp Ticket Booking Bot
+﻿#  WhatsApp Ticket Booking Bot
 
 An AI-powered WhatsApp chatbot for booking bus and flight tickets using FastAPI, Twilio, Rasa, and MySQL — integrated with payment gateway, PDF ticket generation, and smart conversational flows.
 
